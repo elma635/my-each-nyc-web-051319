@@ -4,8 +4,8 @@ i = 0
 
 while i > 0
 
-yield(array[i])
-
+yield(array[i]).times do
+  
 i += 1
   end
   array
