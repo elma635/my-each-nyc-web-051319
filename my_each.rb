@@ -5,8 +5,9 @@ i = 0
 while i > 0
 
 yield(array[i]).times do
-  
+
 i += 1
+    end
   end
   array
 end
