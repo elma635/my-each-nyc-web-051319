@@ -4,7 +4,7 @@ i = 0
 
 while i > 0
 
-yield(array[i]).upto(5) do 
+yield(array[i]).upto(5) do |i|
 
 i += 1
     end
