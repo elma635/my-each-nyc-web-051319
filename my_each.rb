@@ -47,5 +47,3 @@ def hello(array)
 end
 
 #hello(list) {|i| "Hello #{i} what's up?"}
-
- 
